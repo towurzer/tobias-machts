@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tobias-machts
-- 🇦🇹  I'm an austrian developer whoes journey started in 2022
-- 👀 I’m 19 years old and interested in Programming, Biking, Skiing, travelling and in the mountains
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @towurzer
+- 🇦🇹  I'm an austrian developer
+- 👀 19 years old and 
+- 🌱 currently learning python
 - 📫 How to reach me [ig:@tobi.wurzer]
 
 <!---
