@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @towurzer
 - 🇦🇹  I'm an austrian developer
-- 👀 19 years old and 
+- 👀 20 years old and 
 - 🌱 currently learning python
 - 📫 How to reach me [ig:@tobi.wurzer]
 
